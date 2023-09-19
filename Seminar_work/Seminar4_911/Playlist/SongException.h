@@ -1,0 +1,10 @@
+#ifndef SEMINAR4_911_SONGEXCEPTION_H
+#define SEMINAR4_911_SONGEXCEPTION_H
+
+
+class SongException {
+
+};
+
+
+#endif //SEMINAR4_911_SONGEXCEPTION_H

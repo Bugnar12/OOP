@@ -1,0 +1,3 @@
+C:/Users/Praslea/Desktop/Seminar4_911/out/build/x64-Debug/CMakeFiles/Seminar4_911.dir
+C:/Users/Praslea/Desktop/Seminar4_911/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Praslea/Desktop/Seminar4_911/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+D:/UBB/Semester 2/OOP/Seminar6_V2/cmake-build-debug/CMakeFiles/Seminar6_V2.dir
+D:/UBB/Semester 2/OOP/Seminar6_V2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UBB/Semester 2/OOP/Seminar6_V2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/UBB/Semester 2/OOP/Seminar6_V2/cmake-build-debug/CMakeFiles/Seminar6_V2_autogen_timestamp_deps.dir
+D:/UBB/Semester 2/OOP/Seminar6_V2/cmake-build-debug/CMakeFiles/Seminar6_V2_autogen.dir
